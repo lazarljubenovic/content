@@ -19,7 +19,7 @@ This corresponds to the CSS [`font-variant-caps`](/en-US/docs/Web/CSS/font-varia
 The font alternative capitalization value, which is one of:
 
 - `normal` (default)
-  - : Deactivates of the use of alternate glyphs.
+  - : Deactivates the use of alternate glyphs.
 - `small-caps`
   - : Enables display of small capitals (OpenType feature: `smcp`).
     Small-caps glyphs typically use the form of uppercase letters but are reduced to the size of lowercase letters.
